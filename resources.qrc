@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/motherboard-wallpaper-2560x1600.jpg</file>
+        <file>images/resistencia-electrica.jpg</file>
+        <file>images/simbolo-resistencia-electrica.gif</file>
+        <file>images/Diodo.jpg</file>
+        <file>images/180px-Diode01.svg.png</file>
+        <file>images/180px-Register3.jpg</file>
+        <file>images/180px-Zero_ohm_resistors_cropped.jpg</file>
+        <file>images/200px-Dioden2.jpg</file>
+        <file>images/220px-Diode-closeup.jpg</file>
+        <file>images/220px-RA0007A.jpg</file>
+        <file>images/220px-Transistorer_(croped).jpg</file>
+        <file>images/250px-Transistor-photo.JPG</file>
+        <file>images/290px-6_different_resistors.jpg</file>
+        <file>images/Thyristor_circuit_symbol_es.jpg</file>
+        <file>images/Triac.svg.png</file>
+    </qresource>
+</RCC>
